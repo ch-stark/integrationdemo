@@ -1,0 +1,14 @@
+Tekton consists of the following parts
+
+Tekton Operator
+Tekton CLI
+Tekton Catalog
+Tekton Triggers
+VS Code Tekton Pipelines extension 
+
+ArgoCD is a tool to implement Gitops
+ArgoCD contains an ArgoCD-Operator which will be used.
+
+Kogito is a BPMN extension which works with Quarkus
+Reseach:
+https://porcelli.me/announcement/tooling/vscode/bpmn/2019/09/11/new-vscode-gui-editor.html

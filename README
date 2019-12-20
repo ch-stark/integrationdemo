@@ -12,3 +12,6 @@ ArgoCD contains an ArgoCD-Operator which will be used.
 Kogito is a BPMN extension which works with Quarkus
 Reseach:
 https://porcelli.me/announcement/tooling/vscode/bpmn/2019/09/11/new-vscode-gui-editor.html
+
+
+Deployment Structure: TBD

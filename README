@@ -13,6 +13,7 @@ Kogito is a BPMN extension which works with Quarkus
 Reseach:
 https://porcelli.me/announcement/tooling/vscode/bpmn/2019/09/11/new-vscode-gui-editor.html
 https://porcelli.me/announcement/tooling/github/bpmn/dmn/2019/10/22/bpmn-dmn-github-extension.html
+https://developers.redhat.com/blog/2019/08/29/kogito-for-quarkus-intelligent-applications/
 
 Deployment Structure: TBD
 
@@ -20,13 +21,15 @@ Deployment Structure: TBD
 When use Gitops flow
 When use BPM
 
-Scoping of the Topics
+For example a User does a Commit which triggers a tekton pipeline which deploys the Application to staging but
+this is not enough.
+When it comes to production a Kogito Process should be invoked which requires two Manual Approvals.
 
 
+Scoping of the Topics TBD
 All (apart ArgoCD has VSCode extensions)
 
 
-https://developers.redhat.com/blog/2019/08/29/kogito-for-quarkus-intelligent-applications/
 
 
 

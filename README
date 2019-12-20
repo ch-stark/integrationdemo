@@ -30,8 +30,18 @@ Scoping of the Topics TBD
 All (apart ArgoCD has VSCode extensions)
 
 
+Operators used:
 
+Quarkus-Operator
+https://github.com/quarkusio/quarkus/issues/5931
+Tekton-Operator
+(generated pipeline-sa)
+ArgoCD-Operator
+https://github.com/argoproj-labs/argocd-operator
+Kogito-Operator
+https://github.com/kiegroup/kogito-cloud-operator
 
+Extensions discussed:
 
 
 

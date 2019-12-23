@@ -1,3 +1,13 @@
+https://blog.openshift.com/cloud-native-ci-cd-with-openshift-pipelines/
+
+An idea could be to translate the steps in jenkins see
+https://access.redhat.com/documentation/en-us/reference_architectures/2017/pdf/application_cicd_on_openshift_container_platform_with_jenkins/Reference_Architectures-2017-Application_CICD_on_OpenShift_Container_Platform_with_Jenkins-en-US.pdf
+to Tekton So it would be kind of native Tekton ci cd 
+
+
+
+
+
 Tekton consists of the following parts
 
 Tekton Operator

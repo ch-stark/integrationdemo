@@ -5,9 +5,6 @@ https://access.redhat.com/documentation/en-us/reference_architectures/2017/pdf/a
 to Tekton So it would be kind of native Tekton ci cd 
 
 
-
-
-
 Tekton consists of the following parts
 
 Tekton Operator
@@ -24,6 +21,14 @@ Reseach:
 https://porcelli.me/announcement/tooling/vscode/bpmn/2019/09/11/new-vscode-gui-editor.html
 https://porcelli.me/announcement/tooling/github/bpmn/dmn/2019/10/22/bpmn-dmn-github-extension.html
 https://developers.redhat.com/blog/2019/08/29/kogito-for-quarkus-intelligent-applications/
+
+Kogito:
+
+Use Quarkus with Kogito/Small-Rye Extension
+Get URL to call the process
+Register WebHook in GitHub
+After Commit invoke BPM Process
+
 
 Deployment Structure: TBD
 
